@@ -1,10 +1,10 @@
 # caesar-cipher
 
-A Clojure library designed to ... well, that part is up to you.
+Demo project testing out Clojure's test.check library.
 
 ## Usage
 
-FIXME
+Read about it on the [blog post](http://onbeyondlambda.blogspot.com/2014/11/trying-out-property-based-testing-in.html).
 
 ## License
 
